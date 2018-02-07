@@ -1,0 +1,22 @@
+{
+"name": "node-round-robin-database",
+"version": "1.0.0",
+"description": "In-memory Round Robin Database implementation for storing time-series data. It's pertty much the same as [whisper](https://github.com/graphite-project/whisper).",
+"main": "index.js",
+"scripts": {
+"test": "echo \"Error: no test specified\" && exit 1"
+},
+"repository": {
+"type": "git",
+"url": "git+https://github.com/Zig1375/node-round-robin-database.git"
+},
+"keywords": [
+"rrd"
+],
+"author": "",
+"license": "ISC",
+"bugs": {
+"url": "https://github.com/Zig1375/node-round-robin-database/issues"
+},
+"homepage": "https://github.com/Zig1375/node-round-robin-database#readme"
+}
